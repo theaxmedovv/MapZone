@@ -74,7 +74,7 @@ class LandingPage2 extends StatelessWidget {
                     );
                   },
                   child: const Text(
-                    "Bolt Running Club",
+                    "MapZone Running Club",
                     style: TextStyle(
                       fontSize: 32,
                       color: Colors.white,

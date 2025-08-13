@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import ' login_page.dart';
-import 'login_page.dart';
 import 'join_us_page.dart';
 
 class GetStartedPage extends StatelessWidget {
